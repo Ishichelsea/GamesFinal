@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Sign In form
+        </title>
+    </head>
+    <body>
+        <form>
+            <input type="text" name="name" placeholder="username"id="type" required><br><br>
+            <input type="text" size="65" name="Address" placeholder="Address"/><br><br>
+           
+            <input type="email" id="email" name="email"placeholder="Mail id"
+            pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"><br><br>
+            <input type="text" name="Telephone" id="number"placeholder="Phone Number" pattern="/^[\+]?[(]?[0-9]{3}[)]?[-\s\.]?[0-9]{3}[-\s\.]?[0-9]{4,6}$/im" title="Must Contain ten digits"><br><br>
+              <input list="Degrees" name="degrees" id="degrees"placeholder="Degree">
+  <datalist id="Degrees">
+    <option value="B.E">
+    <option value="BA">
+    <option value="BCA">
+    <option value="BBA">
+    <option value="BSc">
+  </datalist><br><br>
+     
+         <input type="password" id="password" name="password" placeholder="password" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters" required/> <br><br>
+         
+
+            <!-- <input type="password" name="password" placeholder="Enter password"id="type" required><br><br> -->
+            <!-- <input type="button" value="Log In" id="btn" onclick="validateEmail(document.email)"> -->
+            <input type="submit" value="Submit" />
+            <input type="reset"
+                   value="Reset" name="Reset" />
+       
+        </form>
+     
+    </body>
+</html>

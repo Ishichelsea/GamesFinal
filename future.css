@@ -1,0 +1,18 @@
+
+body {
+
+    font-size:18px;
+    margin: 0;
+    background-image: url(future.jpg);
+    background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+  }
+  p { margin: 0; }
+  .future-section {
+    padding: 150px;
+    text-align: left;
+    
+    color: white;
+  }
+  

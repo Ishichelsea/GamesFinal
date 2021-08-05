@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Admin Login page </title>
+<link rel="stylesheet" type="text/css" href="login.css">
+<head>
+<body>
+<center>
+<div class="form">
+<form action="home.html">
+<br><br><br><br><br><br>
+<table width="25%" border="0" cellspacing="40" align="center">
+<tr>
+<td align="center" id="main"><h2 style="font-family:cursive;">GAMING UNIFIED</h2></td>
+</tr>
+<tr>
+<td align="center"><img src="jylogo.jpg" width="30%"></td>
+</tr>
+<tr>
+<td><input type="email" name="email" placeholder="email id" id="type" required></td>
+</tr>
+<tr>
+    <td> <input type="password" name="password" placeholder="password" id="type" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters" required></td>
+
+</tr>
+<tr>
+<td align="center"><input type="submit" value="Login" id="btn"name="submit" value="Submit" onclick="ValidateEmail(document.email)"/></td>
+</tr>
+</table>
+</form>
+</div>
+</center>
+<script src="login.js"></script>
+</body>
+</html>

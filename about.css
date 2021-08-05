@@ -1,0 +1,16 @@
+body {
+
+    font-size:18px;
+    margin: 0;
+    background-image: url(joystick.jpg);
+    background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+  }
+  .about-section {
+    padding: 150px;
+    text-align: center;
+    
+    color: white;
+  }
+  
