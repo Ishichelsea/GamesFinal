@@ -5,7 +5,7 @@ Gaming Unified is the site for any ardent gamers and it has latest updated games
 
 Below are the snapshots of the various sections of the website,
 
-Login page: In this javascript validation will be done before you login to the site.
+Login page: In this Js validation will be done before you login to the site, to make sure if you have entered the details in the expected format...
 ![Screenshot (196)](https://user-images.githubusercontent.com/46669839/128348338-601f6c1c-d737-49f7-a07a-93f3824b2c99.png)
 
 Home page: This page contains navbar through which various sections of the page can be viewed.
