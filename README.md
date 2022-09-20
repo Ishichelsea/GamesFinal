@@ -15,7 +15,7 @@ Home page: This page contains navbar through which various sections of the page 
 About page: In this, you can view our story and our paths that paved the way for this site.
 ![Screenshot (198)](https://user-images.githubusercontent.com/46669839/128348443-f1627a51-d202-4d15-a50d-3480d7a6e1df.png)
 
-Games: This is entirely a games zone in this website
+Games: This is entirely a games zone in this website, this is totally responsive page with amazing games!!
 
 1)![Screenshot (199)](https://user-images.githubusercontent.com/46669839/128348488-211304dc-465c-431d-844f-22e658465df9.png)
 2)![Screenshot (200)](https://user-images.githubusercontent.com/46669839/128348509-f31efb97-c81f-4349-84b6-74658507d136.png)
