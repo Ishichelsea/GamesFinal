@@ -1,5 +1,5 @@
 # GamesFinal
-Gaming Unified is a gaming website, It has five sections, login page, home page, about us page , contact us page, games page and a future section. It is a responsive site built with HTML, CSS and Javascript. 
+Gaming Unified is a gaming website, It has five sections, login page, home page, about us page , contact us page, games page and a future section. It is a responsive site built using front-End technologies. 
 
 Gaming Unified is the site for any ardent gamers and it has latest updated games where one can dowload. Also Video is added for better view.
 
